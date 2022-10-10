@@ -1,0 +1,9 @@
+[class^=col] {
+    background-color: #006CFA;
+    height: 50px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
